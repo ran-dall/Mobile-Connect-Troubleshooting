@@ -1,0 +1,12 @@
+Windows Registry Editor Version 5.00
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\OEMInformation]
+"Logo"=-
+"Manufacturer"=-
+"Model"=-
+"SupportHours"=-
+"SupportPhone"=-
+"SupportURL"=-
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Store]
+"OEMID"=-
+"StoreContentModifier"=-

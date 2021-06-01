@@ -1,0 +1,12 @@
+Windows Registry Editor Version 5.00
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\OEMInformation]
+"Logo"=""
+"Manufacturer"="ALIENWARE"
+"Model"="ALIENWARE 17 R4"
+"SupportHours"=""
+"SupportPhone"=""
+"SupportURL"="https://www.dell.com/"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Store]
+"OEMID"="DELL"
+"StoreContentModifier"="DELL_ALIENWARE"
